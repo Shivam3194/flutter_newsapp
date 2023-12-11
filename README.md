@@ -7,6 +7,10 @@ Flutter MVVM project for News Headlines. REST Api for News is used in this proje
 
 A new Flutter project.
 
+
+https://github.com/Shivam3194/flutter_newsapp/assets/101368401/5d9105a3-0f14-4edd-9737-3d1e59fb7b2d
+
+
 1. Get free API from here :  https://newsapi.org/
    
 
